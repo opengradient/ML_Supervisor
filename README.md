@@ -1,3 +1,3 @@
 # ML_Supervisor
 
-Contact cleint services for access to private repos.
+Please contact cleint services for access to private repositories of Open Gradient.
