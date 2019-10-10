@@ -1,6 +1,6 @@
-#### ML_Supervisor uses natural language processing algorithms to search for and classify content of interest.  
+#### ML_Supervisor uses natural language processing algorithms to search for and classify content of interest. ML_Supervisor was designed so that the user does not need to code or have any Machine learning(ML)or Data Science experience before using the API.
 
-The ML Supervisor graphic user interface is currently configured as follows:
+The ML_Supervisor graphic user interface is currently configured as follows:
 
 1. Test area: allows a user to input any sentences or content of interest to assess the latest memory and accuracy of the        models.
 
